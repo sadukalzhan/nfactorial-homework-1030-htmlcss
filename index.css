@@ -1,0 +1,281 @@
+.row1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+
+}
+
+.div1{
+    background-color: blue;
+   height: 50px;
+    
+}
+
+.div2{
+    background-color: red;
+    height: 50px;
+    
+}
+
+
+
+
+
+.row2{
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+}
+
+.div3{
+    background-color: green;
+   height: 50px;
+    
+}
+
+.div4{
+    background-color:blue;
+    height: 50px;
+    
+}
+
+
+
+
+
+.row3{
+    display: grid;
+    grid-template-columns: 1fr 9fr 1fr;
+}
+
+.div5{
+    background-color: red;
+   height: 50px;
+    
+}
+
+.div6{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div7{
+    background-color:blue;
+    height: 50px;
+    
+}
+
+
+.row4{
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+}
+
+.div8{
+    background-color: red;
+   height: 50px;
+    
+}
+
+.div9{
+    background-color:blue;
+    height: 50px;
+    
+}
+
+
+
+.row5{
+   display:flex;
+   height: 50px;
+   background-color: green;
+   justify-content: center;
+   align-items: center;
+   
+   
+}
+
+.div10{
+ background-color:red;
+ width: 30px;
+ height: 30px;  
+}
+
+
+.row6{
+    display: grid;
+    grid-template-columns: 9fr 2fr 9fr;
+}
+
+.div11{
+    background-color: red;
+   height: 50px;
+    
+}
+
+.div12{
+    background-color:blue;
+    height: 50px;
+    
+}
+
+.div13{
+    background-color:red;
+    height: 50px;
+    
+}
+
+
+
+
+
+.row7{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+}
+
+.div14{
+    background-color: red;
+   height: 50px;
+    
+}
+
+.div15{
+    display: flex;
+    background-color:blue;
+    height: 50px;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.div01{
+    background-color:green;
+    height: 10px;
+    
+}
+
+
+
+
+.row8{
+    display: grid;
+    grid-template-columns: 2.5fr 4fr 2.5fr 4fr 2.5fr 4fr 2.5fr 4fr 2.5fr;
+    
+}
+
+.div16{
+    background-color: orange;
+   height: 50px;
+    
+}
+
+.div17{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div18{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+.div19{
+    background-color: green
+}
+
+.div20{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+.div21{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div22{
+    background-color: orange;
+   height: 50px;
+    
+}
+
+.div23{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div24{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+
+
+
+.row9{
+    display: grid;
+    grid-template-columns: 8fr 1fr 8fr 1fr 8fr 1fr 8fr 1fr 8fr;
+    
+}
+
+.div25{
+    background-color: orange;
+   height: 50px;
+    
+}
+
+.div26{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div27{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+.div28{
+    background-color: green
+}
+
+.div29{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+.div30{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div31{
+    background-color: orange;
+   height: 50px;
+    
+}
+
+.div32{
+    background-color:green;
+    height: 50px;
+    
+}
+
+.div33{
+    background-color:orange;
+    height: 50px;
+    
+}
+
+
+
